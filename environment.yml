@@ -1,0 +1,11 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - geopandas=*
+  - ipython=*
+  - pandas=*
+  - pydeck=*
+  - shapely=*
+  - snowflake-snowpark-python=*
+  - streamlit-folium=*
