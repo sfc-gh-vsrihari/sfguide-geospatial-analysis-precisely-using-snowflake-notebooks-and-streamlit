@@ -7,5 +7,5 @@ Analyzing location-specific data for decision-making often requires specialized 
 
 ## Step-by-Step Guide
 
-For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide]([https://quickstarts.snowflake.com/guide/integrate_snowflake_cortex_agents_with_microsoft_teams/index.html](https://quickstarts.snowflake.com/guide/using_precisely_enrich_data/index.html?index=..%2F..index#0)).
+For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide (https://quickstarts.snowflake.com/guide/using_precisely_enrich_data/index.html?index=..%2F..index#0))
 
