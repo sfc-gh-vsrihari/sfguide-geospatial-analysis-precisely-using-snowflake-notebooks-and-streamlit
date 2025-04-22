@@ -9,7 +9,8 @@ Analyzing location-specific data for decision-making often requires specialized 
 
 For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide]([https://quickstarts.snowflake.com/guide/integrate_snowflake_cortex_agents_with_microsoft_teams/index.html](https://quickstarts.snowflake.com/guide/using_precisely_enrich_data/index.html?index=..%2F..index#0)).
 
-**Steps for preparing data (Optional)**
+
+## Optional- Steps for preparing data
 
 --Preview some sample records from boundary table
 select * from MBI__PREMIUM_GEOSPATIAL__MARKET_DATA.PROMOTIONAL."mbi_jp_cho_cho_moku_sample_region" limit 10;
